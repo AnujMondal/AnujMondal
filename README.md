@@ -5,7 +5,7 @@
 </p>
 
 ## 💫 About Me
-- 🔭 I'm currently working on OpenCV-related projects
+- 🔭 I'm currently working on AI-related projects
 - 🌱 Learning advanced Full Stack Development skills
 - 👯 Looking to collaborate on open source projects
 - 💬 Ask me about anything related to tech
@@ -22,11 +22,12 @@
 ## 📊 GitHub Stats
 <p align="center">
   <a href="https://github.com/AnujMondal">
-    <img height="170px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AnujMondal&show_icons=true&count_private=true&theme=radical" />
+    <img height="170px" src="https://github-readme-stats.vercel.app/api?username=AnujMondal&show_icons=true&count_private=true&theme=radical" />
   </a>
   <a href="https://github.com/AnujMondal">
-    <img height="170px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AnujMondal&layout=compact&theme=radical&langs_count=10" />
+    <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnujMondal&layout=compact&theme=radical&langs_count=10" />
   </a>
+</p>
 
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AdityaPrmr&theme=radical)
